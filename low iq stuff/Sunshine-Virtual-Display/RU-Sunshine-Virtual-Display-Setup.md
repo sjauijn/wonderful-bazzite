@@ -1,5 +1,7 @@
 # Sunshine - Настройка виртуального дисплея
 
+# [🇺🇸English](https://github.com/sjauijn/wonderful-bazzite/blob/main/low%20iq%20stuff/Sunshine-Virtual-Display/Sunshine-Virtual-Display-Setup.md) [🇷🇺Русский](https://github.com/sjauijn/wonderful-bazzite/blob/main/low%20iq%20stuff/Sunshine-Virtual-Display/RU-Sunshine-Virtual-Display-Setup.md)
+
 ### Шаг 1. Настройте физический монитор как основной вывод
 
 Настройте физический монитор как основной вывод для `Gamescope`, как описано в официальной документации `Bazzite`.
