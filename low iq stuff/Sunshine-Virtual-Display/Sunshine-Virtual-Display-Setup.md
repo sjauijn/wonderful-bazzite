@@ -1,5 +1,7 @@
 # Sunshine - Virtual Display Setup
 
+# [🇺🇸](https://github.com/ublue-os/bazzite/blob/main/README.md) [🇷🇺](https://github.com/ublue-os/bazzite/blob/main/README-RU.md)
+
 ### Step 1. Set the physical monitor as the primary output
 
 Set the physical monitor as the primary output for `Gamescope`, as described in the official `Bazzite` documentation.
