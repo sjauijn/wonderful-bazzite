@@ -209,19 +209,19 @@ chmod +x ~/.local/bin/virtual-display-and-switch.sh
 Находясь в программе, нажмите `Add...` в разделе **Detailed resolutions**.
 
 <p>
-  <img src="https://raw.githubusercontent.com/sjauijn/wonderful-bazzite/refs/heads/main/low%20iq%20stuff/Sunshine-Virtual-Display-Setup/1.jpg" alt="1">
+  <img src="https://raw.githubusercontent.com/sjauijn/wonderful-bazzite/refs/heads/main/low%20iq%20stuff/Sunshine-Virtual-Display/1.jpg" alt="1">
 </p>
 
 В открывшемся меню в поле `Active` укажите соотношение сторон, а в поле `Refresh rate` задайте частоту обновления, которая будет использоваться виртуальным монитором, затем нажмите `OK`.
 
 <p>
-  <img src="https://raw.githubusercontent.com/sjauijn/wonderful-bazzite/refs/heads/main/low%20iq%20stuff/Sunshine-Virtual-Display-Setup/2.jpg" alt="2">
+  <img src="https://raw.githubusercontent.com/sjauijn/wonderful-bazzite/refs/heads/main/low%20iq%20stuff/Sunshine-Virtual-Display/2.jpg" alt="2">
 </p>
 
 Создайте нужное количество кастомных разрешений экрана , которые будут использоваться виртуальным монитором и нажмите `Export`. Файл необходимо сохранить с названием `edid.bin`.
 
 <p>
-  <img src="https://raw.githubusercontent.com/sjauijn/wonderful-bazzite/refs/heads/main/low%20iq%20stuff/Sunshine-Virtual-Display-Setup/3.jpg" alt="3">
+  <img src="https://raw.githubusercontent.com/sjauijn/wonderful-bazzite/refs/heads/main/low%20iq%20stuff/Sunshine-Virtual-Display/3.jpg" alt="3">
 </p>
 
 Полученный файл `edid.bin` перенести в директорию `/usr/local/lib/firmware/`.
