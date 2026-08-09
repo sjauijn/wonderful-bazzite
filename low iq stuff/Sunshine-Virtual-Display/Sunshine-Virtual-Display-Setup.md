@@ -209,19 +209,19 @@ To get the `edid.bin` file with custom resolutions, you need to use a Windows pr
 While in the program, click `Add...` in the **Detailed resolutions** section.
 
 <p>
-  <img src="https://raw.githubusercontent.com/sjauijn/wonderful-bazzite/refs/heads/main/low%20iq%20stuff/Sunshine-Virtual-Display-Setup/1.jpg" alt="1">
+  <img src="https://raw.githubusercontent.com/sjauijn/wonderful-bazzite/refs/heads/main/low%20iq%20stuff/Sunshine-Virtual-Display/1.jpg" alt="1">
 </p>
 
 In the menu that opens, specify the aspect ratio in the `Active` field, and set the refresh rate to be used by the virtual monitor in the `Refresh rate` field, then click `OK`.
 
 <p>
-  <img src="https://raw.githubusercontent.com/sjauijn/wonderful-bazzite/refs/heads/main/low%20iq%20stuff/Sunshine-Virtual-Display-Setup/2.jpg" alt="2">
+  <img src="https://raw.githubusercontent.com/sjauijn/wonderful-bazzite/refs/heads/main/low%20iq%20stuff/Sunshine-Virtual-Display/2.jpg" alt="2">
 </p>
 
 Create the required number of custom screen resolutions to be used by the virtual monitor and click `Export`. The file must be saved with the name `edid.bin`.
 
 <p>
-  <img src="https://raw.githubusercontent.com/sjauijn/wonderful-bazzite/refs/heads/main/low%20iq%20stuff/Sunshine-Virtual-Display-Setup/3.jpg" alt="3">
+  <img src="https://raw.githubusercontent.com/sjauijn/wonderful-bazzite/refs/heads/main/low%20iq%20stuff/Sunshine-Virtual-Display/3.jpg" alt="3">
 </p>
 
 Move the resulting `edid.bin` file to the directory `/usr/local/lib/firmware/`.
