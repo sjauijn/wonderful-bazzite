@@ -1,4 +1,4 @@
-# Добро пожаловать в мой кладесь знаний по системе Bazzite OS для нубов, чайников, и других замечательных людей!
+# Добро пожаловать в мой кладезь знаний по системе Bazzite OS для нубов, чайников, и других замечательных людей!
 
 #### [🇺🇸English](https://github.com/sjauijn/wonderful-bazzite/blob/main/README.md) [🇷🇺Русский](https://github.com/sjauijn/wonderful-bazzite/blob/main/README-RU.md)
 
