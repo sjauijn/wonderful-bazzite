@@ -1,6 +1,6 @@
 # Sunshine - Virtual Display Setup
 
-# [🇺🇸English](https://github.com/sjauijn/wonderful-bazzite/blob/main/low%20iq%20stuff/Sunshine-Virtual-Display/Sunshine-Virtual-Display-Setup.md) [🇷🇺Русский](https://github.com/sjauijn/wonderful-bazzite/blob/main/low%20iq%20stuff/Sunshine-Virtual-Display/RU-Sunshine-Virtual-Display-Setup.md)
+#### [🇺🇸English](https://github.com/sjauijn/wonderful-bazzite/blob/main/low%20iq%20stuff/Sunshine-Virtual-Display/Sunshine-Virtual-Display-Setup.md) [🇷🇺Русский](https://github.com/sjauijn/wonderful-bazzite/blob/main/low%20iq%20stuff/Sunshine-Virtual-Display/RU-Sunshine-Virtual-Display-Setup.md)
 
 ### Step 1. Set the physical monitor as the primary output
 
