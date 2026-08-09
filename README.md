@@ -2,8 +2,6 @@
 
 #### [🇺🇸English](https://github.com/sjauijn/wonderful-bazzite/blob/main/README.md) [🇷🇺Русский](https://github.com/sjauijn/wonderful-bazzite/blob/main/README-RU.md)
 
-# [🇺🇸English](https://github.com/sjauijn/wonderful-bazzite/blob/main/low%20iq%20stuff/Disable-Steam-Update/Disable-Steam-Update.md) [🇷🇺Русский](https://github.com/sjauijn/wonderful-bazzite/blob/main/low%20iq%20stuff/Disable-Steam-Update/RU-Disable-Steam-Update.md)
-
 First and foremost, I created all these tutorials for myself, so that if I ever reinstall Bazzite, I’ll always be able to refer back to the knowledge I’ve forgotten.
 
 This repository will be updated (or maybe not) as my time and motivation allow me to attempt yet another seemingly impossible thing in Atomic Linux!
