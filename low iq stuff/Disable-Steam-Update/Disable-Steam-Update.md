@@ -1,6 +1,6 @@
 # Steam - Enabling/Disabling automatic and manual updates
 
-# [🇺🇸English](https://github.com/sjauijn/wonderful-bazzite/blob/main/low%20iq%20stuff/Disable-Steam-Update/Disable-Steam-Update.md) [🇷🇺Русский](https://github.com/sjauijn/wonderful-bazzite/blob/main/low%20iq%20stuff/Disable-Steam-Update/RU-Disable-Steam-Update.md)
+# [🇺🇸English](https://github.com/sjauijn/wonderful-bazzite/blob/main/README.md) [🇷🇺Русский](https://github.com/sjauijn/wonderful-bazzite/blob/main/README-RU.md)
 
 ### Enabling client updates
 
