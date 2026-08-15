@@ -10,3 +10,4 @@
 
 1. [Sunshine-Virtual-Display](https://github.com/sjauijn/wonderful-bazzite/blob/main/low%20iq%20stuff/Sunshine-Virtual-Display/RU-Sunshine-Virtual-Display-Setup.md)
 2. [Disable-Steam-Update](https://github.com/sjauijn/wonderful-bazzite/blob/main/low%20iq%20stuff/Disable-Steam-Update/RU-Disable-Steam-Update.md)
+3. [Enabling-mDNS](https://github.com/sjauijn/wonderful-bazzite/blob/main/low%20iq%20stuff/Enabling-mDNS/RU-Enabling-mDNS.md)
