@@ -12,7 +12,3 @@ The following material is already available:
 2. [Disable-Steam-Update](https://github.com/sjauijn/wonderful-bazzite/blob/main/low%20iq%20stuff/Disable-Steam-Update/Disable-Steam-Update.md)
 3. [Enabling-mDNS](https://github.com/sjauijn/wonderful-bazzite/blob/main/low%20iq%20stuff/Enabling-mDNS/Enabling-mDNS.md)
 4. [Installing-Root-CA](https://github.com/sjauijn/wonderful-bazzite/blob/main/low%20iq%20stuff/Installing-Root-CA/Installing-Root-CA.md)
-
-
-
-
