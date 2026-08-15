@@ -1,6 +1,6 @@
 # Bazzite — Включение mDNS для доступа к локальным сервисам `(.local)`
 
-#### [🇺🇸English](https://github.com/sjauijn/wonderful-bazzite/blob/main/low%20iq%20stuff/Enabling-mDNS/Enabling-mDNS.md) [🇷🇺Русский](https://github.com/sjauijn/wonderful-bazzite/blob/main/low%20iq%20stuff/Enabling-mDNS/RU-Enabling-mDNS.md)
+#### [[English]](https://github.com/sjauijn/wonderful-bazzite/blob/main/low%20iq%20stuff/Enabling-mDNS/Enabling-mDNS.md) [[Русский]](https://github.com/sjauijn/wonderful-bazzite/blob/main/low%20iq%20stuff/Enabling-mDNS/RU-Enabling-mDNS.md)
 
 ```bash
 resolvectl status
