@@ -2,7 +2,7 @@
 
 #### [[English]](https://github.com/sjauijn/wonderful-bazzite/blob/main/low%20iq%20stuff/Sunshine-Virtual-Display/Sunshine-Virtual-Display-Setup.md) [[Русский]](https://github.com/sjauijn/wonderful-bazzite/blob/main/low%20iq%20stuff/Sunshine-Virtual-Display/RU-Sunshine-Virtual-Display-Setup.md)
 
-## `‼️At the moment, the ability to set up a virtual display is only available in Bazzite KDE and Gamescope environments.`
+## `‼️At the moment, a virtual display can only be set up with the KDE environment, as well as in Gamescope mode.`
 
 ### Step 1. Set the physical monitor as the primary output
 
