@@ -1,6 +1,6 @@
 # Steam - Включение/Отключение автоматических и ручных обновлений
 
-#### [🇺🇸English](https://github.com/sjauijn/wonderful-bazzite/blob/main/low%20iq%20stuff/Disable-Steam-Update/Disable-Steam-Update.md) [🇷🇺Русский](https://github.com/sjauijn/wonderful-bazzite/blob/main/low%20iq%20stuff/Disable-Steam-Update/RU-Disable-Steam-Update.md)
+#### [[English]](https://github.com/sjauijn/wonderful-bazzite/blob/main/low%20iq%20stuff/Disable-Steam-Update/Disable-Steam-Update.md) [[Русский]](https://github.com/sjauijn/wonderful-bazzite/blob/main/low%20iq%20stuff/Disable-Steam-Update/RU-Disable-Steam-Update.md)
 
 ### Включение обновлений клиента
 
