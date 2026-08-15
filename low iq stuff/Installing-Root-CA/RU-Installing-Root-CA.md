@@ -1,6 +1,6 @@
 # Bazzite - Установка пользовательского Центра Сертификации
 
-#### [🇺🇸English](https://github.com/sjauijn/wonderful-bazzite/blob/main/low%20iq%20stuff/Installing-Root-CA/Installing-Root-CA.md) [🇷🇺Русский](https://github.com/sjauijn/wonderful-bazzite/blob/main/low%20iq%20stuff/Installing-Root-CA/RU-Installing-root-CA.md)
+#### [[English]](https://github.com/sjauijn/wonderful-bazzite/blob/main/low%20iq%20stuff/Installing-Root-CA/Installing-Root-CA.md) [[Русский]](https://github.com/sjauijn/wonderful-bazzite/blob/main/low%20iq%20stuff/Installing-Root-CA/RU-Installing-root-CA.md)
 
 ## Шаг 1. Скопируйте сертификат CA в хранилище доверия
 
