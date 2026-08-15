@@ -1,6 +1,6 @@
 # Добро пожаловать в мой кладезь знаний по системе Bazzite OS для нубов, чайников, и других...
 
-#### [🇺🇸English](https://github.com/sjauijn/wonderful-bazzite/blob/main/README.md) [🇷🇺Русский](https://github.com/sjauijn/wonderful-bazzite/blob/main/README-RU.md)
+#### [[English]](https://github.com/sjauijn/wonderful-bazzite/blob/main/README.md) [[Русский]](https://github.com/sjauijn/wonderful-bazzite/blob/main/README-RU.md)
 
 В первую и последнюю очередь я делал все эти туториалы лично для себя, чтобы если я переустановлю Bazzite, то всегда смогу обратиться к своим потерянным знаниям.
 
