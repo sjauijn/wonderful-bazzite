@@ -1,5 +1,7 @@
 # Bazzite — Installing a Custom Certificate Authority (CA)
 
+#### [🇺🇸English](https://github.com/sjauijn/wonderful-bazzite/blob/main/low%20iq%20stuff/Installing-Root-CA/Installing-Root-CA.md) [🇷🇺Русский](https://github.com/sjauijn/wonderful-bazzite/blob/main/low%20iq%20stuff/Installing-Root-CA/RU-Installing-Root-CA.md)
+
 ## Step 1. Copy the CA certificate to the trust store
 
 ```bash
